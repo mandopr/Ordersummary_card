@@ -103,10 +103,11 @@ main {
   padding: 1rem 0.5rem;
   border-radius: 20px;
   background-color: var(--very-pale-blue);
-  border: 1px solid;
+
   display: flex;
   align-items: center;
   justify-content: space-between;
+  /* border: 1px solid; */
 }
 
 .panel {

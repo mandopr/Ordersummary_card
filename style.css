@@ -73,12 +73,12 @@ main {
 
 .content > * {
   /* border: 1px solid black; */
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 .intro {
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 2.5rem;
   padding: 0;
 }
 
@@ -100,20 +100,21 @@ main {
 
 .details {
   width: 100%;
-  padding: 1rem 0.7rem;
+  padding: 1rem 0.5rem;
   border-radius: 20px;
   background-color: var(--very-pale-blue);
-
+  border: 1px solid;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
 .panel {
-  width: 55%;
+  width: 50%;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  /* border: 1px solid; */
 }
 
 .price {
@@ -122,10 +123,12 @@ main {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  /* border: 1px solid; */
 }
 
 .price > p {
   font-weight: 900;
+  margin-bottom: 0.3rem;
 }
 
 .price > span {
@@ -143,10 +146,9 @@ main {
   cursor: pointer;
   font-weight: 700;
   border-radius: 10px;
-  padding: 0.7rem 1rem;
-  margin-bottom: 1.8rem;
+  padding: 1rem 1rem;
   color: var(--very-pale-blue);
-  box-shadow: 0px 5px 10px rgba(114, 128, 167, 0.7);
+  box-shadow: 0px 10px 15px 0px rgb(176, 168, 255);
   transform: translateY(10px);
   transition: all 0.3s ease-in-out;
   background-color: var(--bright-blue);
@@ -158,9 +160,12 @@ main {
 }
 
 .content > a {
+  width: 100%;
+  display: block;
   font-size: 14px;
   font-weight: 900;
-  margin-bottom: 4rem;
+  text-align: center;
+  margin-bottom: 2.5rem;
   text-decoration: none;
   color: var(--desaturated-blue);
 }
@@ -199,6 +204,14 @@ main {
   /* .panel {
     width: 50%;
   } */
+
+  .price p {
+    font-size: 0.8rem;
+  }
+
+  .price span {
+    font-size: 0.8rem;
+  }
 
   .btn {
     padding: 1rem;

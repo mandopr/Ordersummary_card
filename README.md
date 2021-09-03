@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screensho.t.jpg)
+![](image/ss.jpg)
 
 
 ### Links
   
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/mandopr/Ordersummary_card)
+- Live Site URL: [Live site](https://mandopr.github.io/Ordersummary_card/)
 
 ## My process
 
@@ -42,12 +42,6 @@ Users should be able to:
 - Flexbox
 
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-
 ## Author
 
 - Frontend Mentor - [@mandopr](https://www.frontendmentor.io/profile/mandopr)
@@ -56,4 +50,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-It's my first time in Frontend Mentor , and also in making my first ever README file (😅😅). [@mehulpuri](https://github.com/mehulpuri) helped me in this project when I got stucked in my challenge.
+It's my first time in Frontend Mentor , and also in making my first ever README file (😅😅) , I did make several projects but never format an README file. [@mehulpuri](https://github.com/mehulpuri) helped me in this project when I got stucked in the challenge.

@@ -86,7 +86,7 @@ main {
   text-align: center;
 }
 
-.intro > h2 {
+.intro > h1 {
   font-size: 1.8rem;
   font-weight: 900;
 }
@@ -183,7 +183,7 @@ main {
     padding: 0 0.5rem;
   }
 
-  .intro > h2 {
+  .intro > h1 {
     font-size: 1.5rem;
   }
 

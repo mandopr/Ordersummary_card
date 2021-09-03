@@ -22,7 +22,7 @@ html {
   overflow-x: hidden;
 }
 
-body {
+main {
   background-image: url("images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
   background-size: contain;

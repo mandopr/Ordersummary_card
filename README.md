@@ -45,7 +45,7 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@mandopr](https://www.frontendmentor.io/profile/mandopr)
-- Twitter - [@BingeCoder](https://twitter.com/BingeCoder)
+- Twitter - [@Prithavi_r](https://twitter.com/Prithavi_r)
 
 
 ## Acknowledgments
